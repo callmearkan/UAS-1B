@@ -3,7 +3,6 @@ import java.io.IOException:
 import java.io.InputStreamReader;
 import java.sql.SQLOutput;
 import java.util.ArrayList;
-Import java.util.ArrayList;
 public class UAS1B {
 
     public static void main(String[] args) throws IOException {
